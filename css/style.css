@@ -1030,7 +1030,7 @@
 
 	.headerContent {
 		 background-color: #f0eee5;
-		 height: 20vh;
+		 height: 10vh;
 		 position: relative;
 	}
 
@@ -1050,6 +1050,9 @@
 		}
 		#navbar  li {
 			padding: 15px 0;
+		}
+		#bar {
+			display: flex;
 		}
 		.list-nav {
 			display: flex;
